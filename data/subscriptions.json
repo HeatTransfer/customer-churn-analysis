@@ -1,0 +1,1602 @@
+[
+  {
+    "customer_id": 1,
+    "subscription_id": "sub_1",
+    "start_date": "28-06-2023",
+    "end_date": "20-01-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 2,
+    "subscription_id": "sub_2",
+    "start_date": "27-12-2022",
+    "end_date": "15-09-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 3,
+    "subscription_id": "sub_3",
+    "start_date": "25-08-2022",
+    "end_date": "24-11-2022",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 4,
+    "subscription_id": "sub_4",
+    "start_date": "03-05-2022",
+    "end_date": "03-03-2023",
+    "status": "cancelled",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 5,
+    "subscription_id": "sub_5",
+    "start_date": "16-07-2022",
+    "end_date": "03-12-2022",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 6,
+    "subscription_id": "sub_6",
+    "start_date": "27-08-2023",
+    "end_date": "20-06-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 7,
+    "subscription_id": "sub_7",
+    "start_date": "18-07-2022",
+    "end_date": "15-01-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 8,
+    "subscription_id": "sub_8",
+    "start_date": "06-11-2022",
+    "end_date": "13-12-2022",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 9,
+    "subscription_id": "sub_9",
+    "start_date": "08-10-2022",
+    "end_date": "30-11-2022",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 10,
+    "subscription_id": "sub_10",
+    "start_date": "16-12-2023",
+    "end_date": "19-03-2024",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 11,
+    "subscription_id": "sub_11",
+    "start_date": "16-04-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 12,
+    "subscription_id": "sub_12",
+    "start_date": "06-05-2023",
+    "end_date": "16-01-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 13,
+    "subscription_id": "sub_13",
+    "start_date": "16-09-2022",
+    "end_date": "17-06-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 14,
+    "subscription_id": "sub_14",
+    "start_date": "15-02-2023",
+    "end_date": "23-11-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 15,
+    "subscription_id": "sub_15",
+    "start_date": "05-06-2022",
+    "end_date": "19-09-2022",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 16,
+    "subscription_id": "sub_16",
+    "start_date": "29-03-2022",
+    "end_date": "02-09-2022",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 17,
+    "subscription_id": "sub_17",
+    "start_date": "13-09-2023",
+    "end_date": "13-08-2024",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 18,
+    "subscription_id": "sub_18",
+    "start_date": "20-06-2023",
+    "end_date": "30-01-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 19,
+    "subscription_id": "sub_19",
+    "start_date": "01-11-2022",
+    "end_date": "28-09-2023",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 20,
+    "subscription_id": "sub_20",
+    "start_date": "06-08-2023",
+    "end_date": "18-07-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 21,
+    "subscription_id": "sub_21",
+    "start_date": "01-08-2022",
+    "end_date": "17-07-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 22,
+    "subscription_id": "sub_22",
+    "start_date": "10-06-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 23,
+    "subscription_id": "sub_23",
+    "start_date": "10-06-2022",
+    "end_date": "11-07-2022",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 24,
+    "subscription_id": "sub_24",
+    "start_date": "26-10-2022",
+    "end_date": "11-12-2022",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 25,
+    "subscription_id": "sub_25",
+    "start_date": "21-12-2023",
+    "end_date": "08-09-2024",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 26,
+    "subscription_id": "sub_26",
+    "start_date": "28-09-2022",
+    "end_date": "13-09-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 27,
+    "subscription_id": "sub_27",
+    "start_date": "12-03-2023",
+    "end_date": "08-06-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 28,
+    "subscription_id": "sub_28",
+    "start_date": "30-09-2022",
+    "end_date": "10-01-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 29,
+    "subscription_id": "sub_29",
+    "start_date": "11-11-2022",
+    "end_date": "11-10-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 30,
+    "subscription_id": "sub_30",
+    "start_date": "26-03-2023",
+    "end_date": "27-06-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 31,
+    "subscription_id": "sub_31",
+    "start_date": "18-12-2023",
+    "end_date": "10-08-2024",
+    "status": "cancelled",
+    "payment_method": null
+  },
+  {
+    "customer_id": 32,
+    "subscription_id": "sub_32",
+    "start_date": "25-03-2023",
+    "end_date": "04-06-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 33,
+    "subscription_id": "sub_33",
+    "start_date": "27-11-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 34,
+    "subscription_id": "sub_34",
+    "start_date": "23-08-2022",
+    "end_date": "13-07-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 35,
+    "subscription_id": "sub_35",
+    "start_date": "20-11-2023",
+    "end_date": "05-05-2024",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 36,
+    "subscription_id": "sub_36",
+    "start_date": "27-04-2023",
+    "end_date": "16-02-2024",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 37,
+    "subscription_id": "sub_37",
+    "start_date": "05-07-2022",
+    "end_date": "30-05-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 38,
+    "subscription_id": "sub_38",
+    "start_date": "04-04-2022",
+    "end_date": "30-12-2022",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 39,
+    "subscription_id": "sub_39",
+    "start_date": "25-11-2022",
+    "end_date": "16-02-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 40,
+    "subscription_id": "sub_40",
+    "start_date": "26-02-2023",
+    "end_date": "06-12-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 41,
+    "subscription_id": "sub_41",
+    "start_date": "18-07-2023",
+    "end_date": "04-09-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 42,
+    "subscription_id": "sub_42",
+    "start_date": "16-09-2022",
+    "end_date": "30-03-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 43,
+    "subscription_id": "sub_43",
+    "start_date": "11-06-2023",
+    "end_date": "11-07-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 44,
+    "subscription_id": "sub_44",
+    "start_date": "28-02-2023",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 45,
+    "subscription_id": "sub_45",
+    "start_date": "30-09-2023",
+    "end_date": "11-07-2024",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 46,
+    "subscription_id": "sub_46",
+    "start_date": "28-07-2022",
+    "end_date": "10-01-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 47,
+    "subscription_id": "sub_47",
+    "start_date": "25-03-2023",
+    "end_date": "28-12-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 48,
+    "subscription_id": "sub_48",
+    "start_date": "28-12-2023",
+    "end_date": "17-04-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 49,
+    "subscription_id": "sub_49",
+    "start_date": "20-07-2023",
+    "end_date": "14-03-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 50,
+    "subscription_id": "sub_50",
+    "start_date": "18-04-2023",
+    "end_date": "17-07-2023",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 51,
+    "subscription_id": "sub_51",
+    "start_date": "26-05-2023",
+    "end_date": "21-11-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 52,
+    "subscription_id": "sub_52",
+    "start_date": "02-03-2023",
+    "end_date": "04-12-2023",
+    "status": "cancelled",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 53,
+    "subscription_id": "sub_53",
+    "start_date": "13-04-2023",
+    "end_date": "19-02-2024",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 54,
+    "subscription_id": "sub_54",
+    "start_date": "06-09-2023",
+    "end_date": "22-06-2024",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 55,
+    "subscription_id": "sub_55",
+    "start_date": "13-03-2022",
+    "end_date": null,
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 56,
+    "subscription_id": "sub_56",
+    "start_date": "15-12-2022",
+    "end_date": "30-09-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 57,
+    "subscription_id": "sub_57",
+    "start_date": "17-10-2022",
+    "end_date": "17-04-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 58,
+    "subscription_id": "sub_58",
+    "start_date": "02-06-2022",
+    "end_date": "15-02-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 59,
+    "subscription_id": "sub_59",
+    "start_date": "07-12-2022",
+    "end_date": "15-10-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 60,
+    "subscription_id": "sub_60",
+    "start_date": "12-04-2023",
+    "end_date": "23-10-2023",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 61,
+    "subscription_id": "sub_61",
+    "start_date": "09-08-2023",
+    "end_date": "22-03-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 62,
+    "subscription_id": "sub_62",
+    "start_date": "14-02-2022",
+    "end_date": "25-08-2022",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 63,
+    "subscription_id": "sub_63",
+    "start_date": "31-01-2023",
+    "end_date": "29-01-2024",
+    "status": "cancelled",
+    "payment_method": null
+  },
+  {
+    "customer_id": 64,
+    "subscription_id": "sub_64",
+    "start_date": "07-02-2022",
+    "end_date": "12-05-2022",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 65,
+    "subscription_id": "sub_65",
+    "start_date": "13-04-2022",
+    "end_date": "24-12-2022",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 66,
+    "subscription_id": "sub_66",
+    "start_date": "16-01-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 67,
+    "subscription_id": "sub_67",
+    "start_date": "18-03-2022",
+    "end_date": "13-12-2022",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 68,
+    "subscription_id": "sub_68",
+    "start_date": "13-12-2022",
+    "end_date": "27-11-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 69,
+    "subscription_id": "sub_69",
+    "start_date": "03-12-2022",
+    "end_date": "02-10-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 70,
+    "subscription_id": "sub_70",
+    "start_date": "04-10-2023",
+    "end_date": "09-07-2024",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 71,
+    "subscription_id": "sub_71",
+    "start_date": "25-09-2023",
+    "end_date": "29-11-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 72,
+    "subscription_id": "sub_72",
+    "start_date": "21-08-2022",
+    "end_date": "05-11-2022",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 73,
+    "subscription_id": "sub_73",
+    "start_date": "11-10-2023",
+    "end_date": "31-12-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 74,
+    "subscription_id": "sub_74",
+    "start_date": "30-01-2022",
+    "end_date": "24-03-2022",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 75,
+    "subscription_id": "sub_75",
+    "start_date": "28-10-2022",
+    "end_date": "29-05-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 76,
+    "subscription_id": "sub_76",
+    "start_date": "08-09-2022",
+    "end_date": "06-07-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 77,
+    "subscription_id": "sub_77",
+    "start_date": "24-06-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 78,
+    "subscription_id": "sub_78",
+    "start_date": "27-09-2023",
+    "end_date": "27-02-2024",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 79,
+    "subscription_id": "sub_79",
+    "start_date": "26-08-2022",
+    "end_date": "19-05-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 80,
+    "subscription_id": "sub_80",
+    "start_date": "19-09-2022",
+    "end_date": "23-10-2022",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 81,
+    "subscription_id": "sub_81",
+    "start_date": "22-10-2022",
+    "end_date": "27-08-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 82,
+    "subscription_id": "sub_82",
+    "start_date": "20-12-2022",
+    "end_date": "15-11-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 83,
+    "subscription_id": "sub_83",
+    "start_date": "08-12-2023",
+    "end_date": "14-05-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 84,
+    "subscription_id": "sub_84",
+    "start_date": "23-07-2022",
+    "end_date": "06-03-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 85,
+    "subscription_id": "sub_85",
+    "start_date": "31-08-2022",
+    "end_date": "13-04-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 86,
+    "subscription_id": "sub_86",
+    "start_date": "18-12-2023",
+    "end_date": "16-06-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 87,
+    "subscription_id": "sub_87",
+    "start_date": "09-10-2022",
+    "end_date": "12-11-2022",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 88,
+    "subscription_id": "sub_88",
+    "start_date": "13-09-2023",
+    "end_date": null,
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 89,
+    "subscription_id": "sub_89",
+    "start_date": "24-08-2022",
+    "end_date": "30-07-2023",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 90,
+    "subscription_id": "sub_90",
+    "start_date": "14-10-2023",
+    "end_date": "18-02-2024",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 91,
+    "subscription_id": "sub_91",
+    "start_date": "06-10-2023",
+    "end_date": "24-12-2023",
+    "status": "cancelled",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 92,
+    "subscription_id": "sub_92",
+    "start_date": "13-11-2022",
+    "end_date": "26-07-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 93,
+    "subscription_id": "sub_93",
+    "start_date": "15-05-2022",
+    "end_date": "30-07-2022",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 94,
+    "subscription_id": "sub_94",
+    "start_date": "02-03-2023",
+    "end_date": "29-06-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 95,
+    "subscription_id": "sub_95",
+    "start_date": "28-06-2023",
+    "end_date": "09-04-2024",
+    "status": "cancelled",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 96,
+    "subscription_id": "sub_96",
+    "start_date": "21-09-2022",
+    "end_date": "24-06-2023",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 97,
+    "subscription_id": "sub_97",
+    "start_date": "13-12-2022",
+    "end_date": "11-03-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 98,
+    "subscription_id": "sub_98",
+    "start_date": "25-05-2022",
+    "end_date": "17-10-2022",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 99,
+    "subscription_id": "sub_99",
+    "start_date": "25-07-2023",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 100,
+    "subscription_id": "sub_100",
+    "start_date": "15-01-2022",
+    "end_date": "29-06-2022",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 101,
+    "subscription_id": "sub_101",
+    "start_date": "13-01-2023",
+    "end_date": "26-06-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 102,
+    "subscription_id": "sub_102",
+    "start_date": "21-04-2022",
+    "end_date": "17-09-2022",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 103,
+    "subscription_id": "sub_103",
+    "start_date": "17-09-2023",
+    "end_date": "07-02-2024",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 104,
+    "subscription_id": "sub_104",
+    "start_date": "19-12-2023",
+    "end_date": "20-06-2024",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 105,
+    "subscription_id": "sub_105",
+    "start_date": "24-05-2022",
+    "end_date": "16-07-2022",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 106,
+    "subscription_id": "sub_106",
+    "start_date": "20-05-2023",
+    "end_date": "17-08-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 107,
+    "subscription_id": "sub_107",
+    "start_date": "02-02-2023",
+    "end_date": "22-10-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 108,
+    "subscription_id": "sub_108",
+    "start_date": "25-08-2023",
+    "end_date": "12-12-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 109,
+    "subscription_id": "sub_109",
+    "start_date": "17-05-2023",
+    "end_date": "26-04-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 110,
+    "subscription_id": "sub_110",
+    "start_date": "03-02-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 111,
+    "subscription_id": "sub_111",
+    "start_date": "30-08-2022",
+    "end_date": "02-04-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 112,
+    "subscription_id": "sub_112",
+    "start_date": "12-07-2023",
+    "end_date": "06-07-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 113,
+    "subscription_id": "sub_113",
+    "start_date": "10-10-2022",
+    "end_date": "14-02-2023",
+    "status": "cancelled",
+    "payment_method": null
+  },
+  {
+    "customer_id": 114,
+    "subscription_id": "sub_114",
+    "start_date": "04-04-2022",
+    "end_date": "20-08-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 115,
+    "subscription_id": "sub_115",
+    "start_date": "21-02-2022",
+    "end_date": "09-09-2022",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 116,
+    "subscription_id": "sub_116",
+    "start_date": "02-08-2023",
+    "end_date": "15-12-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 117,
+    "subscription_id": "sub_117",
+    "start_date": "24-08-2023",
+    "end_date": "11-01-2024",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 118,
+    "subscription_id": "sub_118",
+    "start_date": "03-12-2022",
+    "end_date": "18-03-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 119,
+    "subscription_id": "sub_119",
+    "start_date": "11-10-2022",
+    "end_date": "23-01-2023",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 120,
+    "subscription_id": "sub_120",
+    "start_date": "28-06-2022",
+    "end_date": "22-09-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 121,
+    "subscription_id": "sub_121",
+    "start_date": "15-05-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 122,
+    "subscription_id": "sub_122",
+    "start_date": "26-08-2023",
+    "end_date": "08-03-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 123,
+    "subscription_id": "sub_123",
+    "start_date": "23-02-2022",
+    "end_date": "28-05-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 124,
+    "subscription_id": "sub_124",
+    "start_date": "07-03-2022",
+    "end_date": "05-12-2022",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 125,
+    "subscription_id": "sub_125",
+    "start_date": "10-06-2023",
+    "end_date": "08-05-2024",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 126,
+    "subscription_id": "sub_126",
+    "start_date": "22-09-2023",
+    "end_date": "13-11-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 127,
+    "subscription_id": "sub_127",
+    "start_date": "15-04-2023",
+    "end_date": "08-04-2024",
+    "status": "cancelled",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 128,
+    "subscription_id": "sub_128",
+    "start_date": "06-05-2023",
+    "end_date": "27-12-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 129,
+    "subscription_id": "sub_129",
+    "start_date": "18-05-2023",
+    "end_date": "30-01-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 130,
+    "subscription_id": "sub_130",
+    "start_date": "26-11-2022",
+    "end_date": "02-11-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 131,
+    "subscription_id": "sub_131",
+    "start_date": "09-10-2022",
+    "end_date": "23-09-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 132,
+    "subscription_id": "sub_132",
+    "start_date": "26-01-2023",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 133,
+    "subscription_id": "sub_133",
+    "start_date": "02-06-2023",
+    "end_date": "06-05-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 134,
+    "subscription_id": "sub_134",
+    "start_date": "02-11-2023",
+    "end_date": "30-10-2024",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 135,
+    "subscription_id": "sub_135",
+    "start_date": "17-03-2023",
+    "end_date": "03-12-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 136,
+    "subscription_id": "sub_136",
+    "start_date": "14-12-2022",
+    "end_date": "02-09-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 137,
+    "subscription_id": "sub_137",
+    "start_date": "17-11-2022",
+    "end_date": "23-07-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 138,
+    "subscription_id": "sub_138",
+    "start_date": "19-01-2023",
+    "end_date": "07-05-2023",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 139,
+    "subscription_id": "sub_139",
+    "start_date": "10-03-2022",
+    "end_date": "25-05-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 140,
+    "subscription_id": "sub_140",
+    "start_date": "19-03-2023",
+    "end_date": "06-06-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 141,
+    "subscription_id": "sub_141",
+    "start_date": "14-05-2022",
+    "end_date": "24-03-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 142,
+    "subscription_id": "sub_142",
+    "start_date": "18-11-2023",
+    "end_date": "18-02-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 143,
+    "subscription_id": "sub_143",
+    "start_date": "22-02-2022",
+    "end_date": null,
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 144,
+    "subscription_id": "sub_144",
+    "start_date": "17-04-2022",
+    "end_date": "08-03-2023",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 145,
+    "subscription_id": "sub_145",
+    "start_date": "04-11-2023",
+    "end_date": "06-08-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 146,
+    "subscription_id": "sub_146",
+    "start_date": "25-12-2022",
+    "end_date": "04-11-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 147,
+    "subscription_id": "sub_147",
+    "start_date": "11-08-2023",
+    "end_date": "03-01-2024",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 148,
+    "subscription_id": "sub_148",
+    "start_date": "16-09-2023",
+    "end_date": "29-02-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 149,
+    "subscription_id": "sub_149",
+    "start_date": "21-12-2023",
+    "end_date": "26-06-2024",
+    "status": "cancelled",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 150,
+    "subscription_id": "sub_150",
+    "start_date": "07-01-2022",
+    "end_date": "09-05-2022",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 151,
+    "subscription_id": "sub_151",
+    "start_date": "13-03-2022",
+    "end_date": "23-06-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 152,
+    "subscription_id": "sub_152",
+    "start_date": "04-04-2022",
+    "end_date": "30-01-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 153,
+    "subscription_id": "sub_153",
+    "start_date": "10-04-2023",
+    "end_date": "31-10-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 154,
+    "subscription_id": "sub_154",
+    "start_date": "29-11-2022",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 155,
+    "subscription_id": "sub_155",
+    "start_date": "09-06-2022",
+    "end_date": "27-09-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 156,
+    "subscription_id": "sub_156",
+    "start_date": "22-11-2023",
+    "end_date": "01-02-2024",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 157,
+    "subscription_id": "sub_157",
+    "start_date": "13-05-2023",
+    "end_date": "17-04-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 158,
+    "subscription_id": "sub_158",
+    "start_date": "09-08-2022",
+    "end_date": "28-05-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 159,
+    "subscription_id": "sub_159",
+    "start_date": "24-04-2022",
+    "end_date": "16-10-2022",
+    "status": "inactive",
+    "payment_method": null
+  },
+  {
+    "customer_id": 160,
+    "subscription_id": "sub_160",
+    "start_date": "24-06-2023",
+    "end_date": "28-12-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 161,
+    "subscription_id": "sub_161",
+    "start_date": "06-09-2023",
+    "end_date": "03-11-2023",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 162,
+    "subscription_id": "sub_162",
+    "start_date": "05-08-2022",
+    "end_date": "13-11-2022",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 163,
+    "subscription_id": "sub_163",
+    "start_date": "02-12-2022",
+    "end_date": "03-03-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 164,
+    "subscription_id": "sub_164",
+    "start_date": "29-06-2022",
+    "end_date": "03-10-2022",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 165,
+    "subscription_id": "sub_165",
+    "start_date": "28-05-2023",
+    "end_date": null,
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 166,
+    "subscription_id": "sub_166",
+    "start_date": "15-03-2022",
+    "end_date": "03-11-2022",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 167,
+    "subscription_id": "sub_167",
+    "start_date": "23-03-2023",
+    "end_date": "01-05-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 168,
+    "subscription_id": "sub_168",
+    "start_date": "17-11-2022",
+    "end_date": "07-10-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 169,
+    "subscription_id": "sub_169",
+    "start_date": "28-12-2023",
+    "end_date": "19-12-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 170,
+    "subscription_id": "sub_170",
+    "start_date": "19-02-2023",
+    "end_date": "31-03-2023",
+    "status": "cancelled",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 171,
+    "subscription_id": "sub_171",
+    "start_date": "25-09-2023",
+    "end_date": "16-06-2024",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 172,
+    "subscription_id": "sub_172",
+    "start_date": "01-04-2022",
+    "end_date": "10-12-2022",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 173,
+    "subscription_id": "sub_173",
+    "start_date": "23-03-2023",
+    "end_date": "17-02-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 174,
+    "subscription_id": "sub_174",
+    "start_date": "10-02-2023",
+    "end_date": "17-08-2023",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 175,
+    "subscription_id": "sub_175",
+    "start_date": "08-12-2022",
+    "end_date": "03-04-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 176,
+    "subscription_id": "sub_176",
+    "start_date": "28-06-2023",
+    "end_date": null,
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 177,
+    "subscription_id": "sub_177",
+    "start_date": "26-12-2022",
+    "end_date": "21-12-2023",
+    "status": "inactive",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 178,
+    "subscription_id": "sub_178",
+    "start_date": "16-04-2022",
+    "end_date": "29-07-2022",
+    "status": "active",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 179,
+    "subscription_id": "sub_179",
+    "start_date": "09-09-2023",
+    "end_date": "26-12-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 180,
+    "subscription_id": "sub_180",
+    "start_date": "01-07-2022",
+    "end_date": "17-06-2023",
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 181,
+    "subscription_id": "sub_181",
+    "start_date": "29-11-2023",
+    "end_date": "13-10-2024",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 182,
+    "subscription_id": "sub_182",
+    "start_date": "05-10-2023",
+    "end_date": "13-04-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 183,
+    "subscription_id": "sub_183",
+    "start_date": "26-04-2023",
+    "end_date": "07-01-2024",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 184,
+    "subscription_id": "sub_184",
+    "start_date": "29-08-2023",
+    "end_date": "26-10-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 185,
+    "subscription_id": "sub_185",
+    "start_date": "14-11-2022",
+    "end_date": "07-08-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 186,
+    "subscription_id": "sub_186",
+    "start_date": "13-01-2023",
+    "end_date": "08-07-2023",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 187,
+    "subscription_id": "sub_187",
+    "start_date": "22-09-2023",
+    "end_date": null,
+    "status": "active",
+    "payment_method": null
+  },
+  {
+    "customer_id": 188,
+    "subscription_id": "sub_188",
+    "start_date": "18-08-2023",
+    "end_date": "26-06-2024",
+    "status": "cancelled",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 189,
+    "subscription_id": "sub_189",
+    "start_date": "06-04-2023",
+    "end_date": "22-02-2024",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 190,
+    "subscription_id": "sub_190",
+    "start_date": "12-09-2023",
+    "end_date": "11-06-2024",
+    "status": "active",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 191,
+    "subscription_id": "sub_191",
+    "start_date": "07-04-2023",
+    "end_date": "28-06-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 192,
+    "subscription_id": "sub_192",
+    "start_date": "28-03-2022",
+    "end_date": "10-01-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 193,
+    "subscription_id": "sub_193",
+    "start_date": "11-09-2022",
+    "end_date": "23-05-2023",
+    "status": "cancelled",
+    "payment_method": "paypal"
+  },
+  {
+    "customer_id": 194,
+    "subscription_id": "sub_194",
+    "start_date": "08-01-2023",
+    "end_date": "16-08-2023",
+    "status": "cancelled",
+    "payment_method": null
+  },
+  {
+    "customer_id": 195,
+    "subscription_id": "sub_195",
+    "start_date": "23-02-2023",
+    "end_date": "14-09-2023",
+    "status": "inactive",
+    "payment_method": "credit_card"
+  },
+  {
+    "customer_id": 196,
+    "subscription_id": "sub_196",
+    "start_date": "09-10-2023",
+    "end_date": "04-10-2024",
+    "status": "active",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 197,
+    "subscription_id": "sub_197",
+    "start_date": "07-04-2022",
+    "end_date": "16-02-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 198,
+    "subscription_id": "sub_198",
+    "start_date": "16-09-2022",
+    "end_date": null,
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 199,
+    "subscription_id": "sub_199",
+    "start_date": "25-03-2022",
+    "end_date": "16-02-2023",
+    "status": "inactive",
+    "payment_method": "upi"
+  },
+  {
+    "customer_id": 200,
+    "subscription_id": "sub_200",
+    "start_date": "14-11-2022",
+    "end_date": "14-11-2023",
+    "status": "inactive",
+    "payment_method": null
+  }
+]

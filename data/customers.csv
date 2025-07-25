@@ -1,0 +1,201 @@
+customer_id,name,signup_date,industry,plan,location
+1,Customer_1,2023-10-17,Fintech,Basic,
+2,Customer_2,2022-10-09,E-commerce,Pro,San Francisco
+3,Customer_3,2022-04-15,,Basic,London
+4,Customer_4,2023-03-09,Fintech,Basic,New York
+5,Customer_5,2022-08-12,E-commerce,Basic,London
+6,Customer_6,2022-07-23,,,San Francisco
+7,Customer_7,2023-04-05,SaaS,Enterprise,New York
+8,Customer_8,2022-06-13,,,Bangalore
+9,Customer_9,2022-10-12,E-commerce,Pro,Bangalore
+10,Customer_10,2022-04-15,Fintech,,New York
+11,Customer_11,2023-01-03,Healthcare,Enterprise,New York
+12,Customer_12,2023-04-16,SaaS,Basic,Berlin
+13,,2022-03-22,SaaS,Enterprise,
+14,Customer_14,2023-09-26,Healthcare,Pro,
+15,Customer_15,2022-03-13,Fintech,Pro,Bangalore
+16,Customer_16,2022-03-23,E-commerce,Basic,Berlin
+17,Customer_17,,Education,Enterprise,San Francisco
+18,Customer_18,2023-01-15,Healthcare,Pro,
+19,Customer_19,2022-10-01,,Basic,London
+20,Customer_20,2023-10-13,E-commerce,Pro,San Francisco
+21,Customer_21,2023-04-19,Education,Enterprise,
+22,Customer_22,2023-12-06,SaaS,Pro,
+23,Customer_23,2022-11-29,Fintech,Pro,New York
+24,Customer_24,2022-11-20,Education,Enterprise,New York
+25,Customer_25,2022-08-05,SaaS,Enterprise,San Francisco
+26,,2023-11-03,Education,,
+27,Customer_27,2023-04-15,E-commerce,Enterprise,San Francisco
+28,Customer_28,2022-09-10,,Enterprise,
+29,Customer_29,2023-08-22,Education,,Bangalore
+30,Customer_30,2022-08-13,E-commerce,,New York
+31,Customer_31,2022-02-18,Fintech,Pro,
+32,Customer_32,2022-06-13,,,London
+33,Customer_33,2022-03-07,Education,,London
+34,Customer_34,,SaaS,Enterprise,London
+35,Customer_35,2022-01-12,,Basic,
+36,Customer_36,2023-07-04,Healthcare,Enterprise,New York
+37,Customer_37,2022-10-28,Education,Pro,Berlin
+38,Customer_38,2022-01-04,,Enterprise,London
+39,,2022-07-02,SaaS,Basic,
+40,Customer_40,2022-11-02,,Pro,San Francisco
+41,Customer_41,2023-01-18,E-commerce,Basic,London
+42,Customer_42,2022-11-28,Education,Basic,New York
+43,Customer_43,2023-01-07,Healthcare,Pro,New York
+44,Customer_44,2022-09-04,SaaS,Basic,New York
+45,Customer_45,2023-05-13,Fintech,Pro,San Francisco
+46,Customer_46,2023-11-07,Education,Pro,Bangalore
+47,Customer_47,2023-06-25,SaaS,,San Francisco
+48,Customer_48,2023-07-07,,Pro,
+49,Customer_49,2022-11-16,Education,Enterprise,Berlin
+50,Customer_50,2023-06-14,Education,Basic,San Francisco
+51,Customer_51,,Fintech,Enterprise,New York
+52,,2023-08-26,SaaS,Pro,London
+53,Customer_53,2022-08-14,Fintech,Basic,
+54,Customer_54,2023-10-09,Fintech,Pro,New York
+55,Customer_55,2022-02-02,Healthcare,Basic,London
+56,Customer_56,2022-09-01,Healthcare,,San Francisco
+57,Customer_57,2023-07-07,E-commerce,,San Francisco
+58,Customer_58,2023-04-30,Education,Pro,New York
+59,Customer_59,2022-04-10,,,Bangalore
+60,Customer_60,2023-03-10,Education,,
+61,Customer_61,2022-02-25,,Basic,New York
+62,Customer_62,2023-02-17,,Enterprise,New York
+63,Customer_63,2022-09-12,E-commerce,Pro,London
+64,Customer_64,2023-04-05,E-commerce,,San Francisco
+65,,2022-10-13,Education,Pro,New York
+66,Customer_66,2023-03-30,SaaS,Basic,New York
+67,Customer_67,2023-10-30,SaaS,Basic,New York
+68,Customer_68,,E-commerce,,Berlin
+69,Customer_69,2023-05-08,E-commerce,,New York
+70,Customer_70,2022-06-18,Education,Basic,Berlin
+71,Customer_71,2022-09-29,Education,Enterprise,Berlin
+72,Customer_72,2023-12-15,,,San Francisco
+73,Customer_73,2022-07-14,Healthcare,Pro,New York
+74,Customer_74,2023-08-17,,Basic,
+75,Customer_75,2022-11-18,Fintech,Basic,London
+76,Customer_76,2023-05-04,SaaS,Pro,New York
+77,Customer_77,2023-06-05,Fintech,Pro,New York
+78,,2023-09-02,Fintech,Pro,Berlin
+79,Customer_79,2022-05-03,SaaS,Pro,London
+80,Customer_80,2023-09-01,Fintech,Basic,Berlin
+81,Customer_81,2023-11-05,SaaS,Enterprise,Bangalore
+82,Customer_82,2022-07-29,,Enterprise,San Francisco
+83,Customer_83,2022-09-29,Education,Pro,
+84,Customer_84,2023-10-23,Healthcare,,Bangalore
+85,Customer_85,,Fintech,,London
+86,Customer_86,2023-07-31,Fintech,Basic,London
+87,Customer_87,2022-08-07,SaaS,Enterprise,San Francisco
+88,Customer_88,2022-12-24,Fintech,Pro,Bangalore
+89,Customer_89,2022-10-19,E-commerce,,London
+90,Customer_90,2023-12-22,Healthcare,Basic,
+91,,2023-07-22,Healthcare,Basic,San Francisco
+92,Customer_92,2022-09-28,Fintech,Basic,
+93,Customer_93,2023-07-21,E-commerce,Enterprise,Bangalore
+94,Customer_94,2023-09-12,E-commerce,Enterprise,San Francisco
+95,Customer_95,2023-12-05,,Enterprise,London
+96,Customer_96,2023-05-16,Healthcare,Basic,New York
+97,Customer_97,2023-10-12,Education,Enterprise,New York
+98,Customer_98,2022-01-04,Healthcare,Pro,
+99,Customer_99,2022-09-26,E-commerce,,London
+100,Customer_100,2023-12-24,Education,Basic,New York
+101,Customer_101,2022-03-19,,Pro,London
+102,Customer_102,,Healthcare,Pro,Berlin
+103,Customer_103,2022-05-11,Fintech,Enterprise,Bangalore
+104,,2022-02-10,Healthcare,Pro,
+105,Customer_105,2022-09-13,,Basic,Bangalore
+106,Customer_106,2023-07-28,Education,Pro,San Francisco
+107,Customer_107,2022-06-16,E-commerce,,New York
+108,Customer_108,2022-07-03,,Enterprise,Berlin
+109,Customer_109,2023-11-17,,Pro,Bangalore
+110,Customer_110,2022-06-13,,Basic,Berlin
+111,Customer_111,2022-02-09,Education,Pro,San Francisco
+112,Customer_112,2023-04-17,Healthcare,Enterprise,San Francisco
+113,Customer_113,2022-08-17,Fintech,Pro,Berlin
+114,Customer_114,2022-12-03,Healthcare,Basic,Bangalore
+115,Customer_115,2022-12-26,,,
+116,Customer_116,2023-07-04,Healthcare,Basic,New York
+117,,2022-09-25,E-commerce,Enterprise,New York
+118,Customer_118,2022-04-22,SaaS,,Bangalore
+119,Customer_119,,Education,Basic,Berlin
+120,Customer_120,2023-08-14,E-commerce,Enterprise,New York
+121,Customer_121,2023-12-27,Education,Basic,London
+122,Customer_122,2023-07-06,,Pro,Bangalore
+123,Customer_123,2023-03-18,Fintech,Enterprise,London
+124,Customer_124,2022-11-18,,Basic,
+125,Customer_125,2022-11-04,SaaS,Enterprise,
+126,Customer_126,2023-02-23,Healthcare,,
+127,Customer_127,2022-10-30,SaaS,Pro,San Francisco
+128,Customer_128,2023-03-07,,,
+129,Customer_129,2022-06-28,SaaS,Enterprise,Berlin
+130,,2023-07-16,Fintech,Enterprise,Bangalore
+131,Customer_131,2022-08-04,Education,Enterprise,Berlin
+132,Customer_132,2023-03-29,Education,Pro,London
+133,Customer_133,2023-04-30,,Pro,
+134,Customer_134,2022-03-28,Healthcare,Enterprise,New York
+135,Customer_135,2022-08-29,,Enterprise,San Francisco
+136,Customer_136,,E-commerce,Basic,New York
+137,Customer_137,2022-09-08,Education,Basic,Berlin
+138,Customer_138,2023-03-01,,Pro,
+139,Customer_139,2023-12-15,Education,,Berlin
+140,Customer_140,2022-09-07,E-commerce,Basic,New York
+141,Customer_141,2023-03-12,E-commerce,Pro,
+142,Customer_142,2023-06-15,Education,Basic,London
+143,,2022-09-13,Fintech,,San Francisco
+144,Customer_144,2023-04-21,,Enterprise,Berlin
+145,Customer_145,2023-09-20,,,London
+146,Customer_146,2023-04-02,E-commerce,,Berlin
+147,Customer_147,2022-09-23,E-commerce,Enterprise,London
+148,Customer_148,2023-05-12,,Pro,Bangalore
+149,Customer_149,2023-03-27,Fintech,Enterprise,San Francisco
+150,Customer_150,2022-10-06,Healthcare,Enterprise,London
+151,Customer_151,2022-03-24,E-commerce,Pro,San Francisco
+152,Customer_152,2023-01-28,,Pro,
+153,Customer_153,,Fintech,,Berlin
+154,Customer_154,2022-12-05,SaaS,,Berlin
+155,Customer_155,2022-03-05,E-commerce,,Berlin
+156,,2023-08-22,,Basic,London
+157,Customer_157,2023-01-25,Education,Basic,Bangalore
+158,Customer_158,2022-11-02,Education,,London
+159,Customer_159,2023-07-14,SaaS,Pro,Berlin
+160,Customer_160,2022-08-13,Healthcare,,Berlin
+161,Customer_161,2022-01-30,Education,Enterprise,
+162,Customer_162,2023-11-27,Education,Pro,Berlin
+163,Customer_163,2022-05-11,SaaS,Basic,Berlin
+164,Customer_164,2023-08-30,SaaS,Basic,New York
+165,Customer_165,2023-10-21,Education,Pro,Berlin
+166,Customer_166,2022-07-06,Fintech,Enterprise,Berlin
+167,Customer_167,2022-12-02,E-commerce,,Bangalore
+168,Customer_168,2022-12-12,Education,Enterprise,Berlin
+169,,2022-09-16,Fintech,,New York
+170,Customer_170,,Fintech,Enterprise,San Francisco
+171,Customer_171,2023-10-28,Fintech,Basic,New York
+172,Customer_172,2022-09-11,E-commerce,Basic,London
+173,Customer_173,2022-06-06,E-commerce,Pro,Berlin
+174,Customer_174,2023-11-17,Fintech,Pro,Berlin
+175,Customer_175,2023-12-18,Healthcare,Enterprise,San Francisco
+176,Customer_176,2023-09-13,SaaS,Basic,San Francisco
+177,Customer_177,2022-11-15,Fintech,Basic,Bangalore
+178,Customer_178,2023-08-13,,,Berlin
+179,Customer_179,2022-07-23,Fintech,Pro,New York
+180,Customer_180,2023-12-15,Healthcare,Basic,London
+181,Customer_181,2022-02-12,Healthcare,,
+182,,2023-01-15,Fintech,Enterprise,New York
+183,Customer_183,2023-03-07,Education,Basic,Berlin
+184,Customer_184,2023-01-06,,,
+185,Customer_185,2022-06-06,Education,Pro,
+186,Customer_186,2023-06-19,,Enterprise,London
+187,Customer_187,,Education,,Berlin
+188,Customer_188,2023-08-30,Healthcare,Enterprise,San Francisco
+189,Customer_189,2022-03-30,Healthcare,,San Francisco
+190,Customer_190,2023-04-21,SaaS,,Bangalore
+191,Customer_191,2022-01-30,Education,Enterprise,San Francisco
+192,Customer_192,2023-05-15,E-commerce,Enterprise,Bangalore
+193,Customer_193,2022-12-15,Healthcare,Enterprise,London
+194,Customer_194,2022-01-11,SaaS,Pro,New York
+195,,2022-09-05,,,Berlin
+196,Customer_196,2023-07-23,E-commerce,,
+197,Customer_197,2023-12-30,Education,,New York
+198,Customer_198,2022-04-06,Healthcare,Pro,Berlin
+199,Customer_199,2023-12-10,E-commerce,Enterprise,
+200,Customer_200,2023-08-19,Healthcare,,London
