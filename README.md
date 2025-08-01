@@ -112,7 +112,3 @@ customer-churn-analysis/
 ## 🏷️ Tags
 
 `SQL` `Python` `Data Engineering` `Churn Prediction` `Cohort Analysis` `ETL` `Business Insights` `Data Analytics`
-
----
-
-Let me know if you want to add badges, screenshots, or deployment options.
